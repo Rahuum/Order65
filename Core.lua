@@ -1,4 +1,4 @@
--- loot macros, butterbot logging, notebook, presets, and MD/Tricks/Major CD announce/macros
+-- loot macros, butterbot logging, notebook, presets
 
 Order65 = LibStub("AceAddon-3.0"):NewAddon("Order65", "AceConsole-3.0", "AceComm-3.0", "AceTimer-3.0", "AceSerializer-3.0");
 
